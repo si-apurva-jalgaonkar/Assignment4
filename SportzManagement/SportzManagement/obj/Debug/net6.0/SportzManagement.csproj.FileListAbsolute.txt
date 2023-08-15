@@ -1,0 +1,15 @@
+C:\Users\Apurva.jalgaonkar\Documents\C#\Assignment_4\SportzManagement\SportzManagement\bin\Debug\net6.0\SportzManagement.exe
+C:\Users\Apurva.jalgaonkar\Documents\C#\Assignment_4\SportzManagement\SportzManagement\bin\Debug\net6.0\SportzManagement.deps.json
+C:\Users\Apurva.jalgaonkar\Documents\C#\Assignment_4\SportzManagement\SportzManagement\bin\Debug\net6.0\SportzManagement.runtimeconfig.json
+C:\Users\Apurva.jalgaonkar\Documents\C#\Assignment_4\SportzManagement\SportzManagement\bin\Debug\net6.0\SportzManagement.dll
+C:\Users\Apurva.jalgaonkar\Documents\C#\Assignment_4\SportzManagement\SportzManagement\bin\Debug\net6.0\SportzManagement.pdb
+C:\Users\Apurva.jalgaonkar\Documents\C#\Assignment_4\SportzManagement\SportzManagement\obj\Debug\net6.0\SportzManagement.csproj.AssemblyReference.cache
+C:\Users\Apurva.jalgaonkar\Documents\C#\Assignment_4\SportzManagement\SportzManagement\obj\Debug\net6.0\SportzManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apurva.jalgaonkar\Documents\C#\Assignment_4\SportzManagement\SportzManagement\obj\Debug\net6.0\SportzManagement.AssemblyInfoInputs.cache
+C:\Users\Apurva.jalgaonkar\Documents\C#\Assignment_4\SportzManagement\SportzManagement\obj\Debug\net6.0\SportzManagement.AssemblyInfo.cs
+C:\Users\Apurva.jalgaonkar\Documents\C#\Assignment_4\SportzManagement\SportzManagement\obj\Debug\net6.0\SportzManagement.csproj.CoreCompileInputs.cache
+C:\Users\Apurva.jalgaonkar\Documents\C#\Assignment_4\SportzManagement\SportzManagement\obj\Debug\net6.0\SportzManagement.dll
+C:\Users\Apurva.jalgaonkar\Documents\C#\Assignment_4\SportzManagement\SportzManagement\obj\Debug\net6.0\refint\SportzManagement.dll
+C:\Users\Apurva.jalgaonkar\Documents\C#\Assignment_4\SportzManagement\SportzManagement\obj\Debug\net6.0\SportzManagement.pdb
+C:\Users\Apurva.jalgaonkar\Documents\C#\Assignment_4\SportzManagement\SportzManagement\obj\Debug\net6.0\SportzManagement.genruntimeconfig.cache
+C:\Users\Apurva.jalgaonkar\Documents\C#\Assignment_4\SportzManagement\SportzManagement\obj\Debug\net6.0\ref\SportzManagement.dll
